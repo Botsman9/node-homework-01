@@ -1,5 +1,5 @@
 {
-  "name": "node-hw-01",
+  "name": "node-homework-01",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UkrHERO/node-hw-01.git"
+    "url": "git+https://github.com/Botsman9/node-homework-01.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/UkrHERO/node-hw-01/issues"
+    "url": "https://github.com/Botsman9/node-homework-01/issues"
   },
-  "homepage": "https://github.com/UkrHERO/node-hw-01#readme",
+  "homepage": "https://github.com/Botsman9/node-homework-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
   },
